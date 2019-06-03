@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">539890165233-6i8qvd32616fu1vmr7nl75as88pftoli.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projectbe-d9023.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">539890165233</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1i0LDEeAZMCj4QMBxUA2F5hc2SeTdato</string>
+    <string name="google_app_id" translatable="false">1:539890165233:android:3f4cd1d986ac51db</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1i0LDEeAZMCj4QMBxUA2F5hc2SeTdato</string>
+    <string name="google_storage_bucket" translatable="false">projectbe-d9023.appspot.com</string>
+    <string name="project_id" translatable="false">projectbe-d9023</string>
+</resources>
