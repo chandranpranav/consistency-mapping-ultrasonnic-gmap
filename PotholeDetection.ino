@@ -8,8 +8,8 @@
 #include <TinyGPS++.h>
 #include <ESP8266WiFi.h>
 
-#define FIREBASE_HOST "projectbe-d99023.firebaseio.com"
-#define FIREBASE_AUTH "qfwT0JPxc9aYOFdaL5a5F9PU68423bcv2icQXv5eA"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 
 
